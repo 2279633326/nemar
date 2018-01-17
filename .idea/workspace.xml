@@ -2,16 +2,149 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="admin:war" />
       <artifact name="admin:war exploded" />
-      <artifact name="nemar:Web exploded" />
+      <artifact name="front:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71af420c-52b0-4c05-9a3c-394ebb9727f8" name="Default" comment="" />
+    <list default="true" id="71af420c-52b0-4c05-9a3c-394ebb9727f8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/fonts/OleoScript-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/fonts/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/112.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/ba.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/ba1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/ce.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/ce1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/ce2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pi1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pi2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pi3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pi4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pi5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pi6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pi7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pr1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pr2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/pr3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/si.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/si1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/si2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/tick1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/images/腾讯QQ.lnk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/artifacts/admin_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/artifacts/admin_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/artifacts/common_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/artifacts/common_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/artifacts/front_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/artifacts/front_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/artifacts/nemar_Web_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/dataSources/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__com_alibaba_druid_1_1_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__com_alibaba_fastjson_1_2_31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__com_hwua_common_1_0_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/admin/admin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/admin/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/admin/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/admin/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/common/common.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/common/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/common/src/main/java/com/hwua/dao/PagingMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/common/src/main/java/com/hwua/dao/UserMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/common/src/main/java/com/hwua/po/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/common/src/main/resources/mapper/pagingMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/common/src/main/resources/mapper/userMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/front.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/controller/PagingController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/controller/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/interceptors/LoginInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/PagingService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/impl/PagingServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/impl/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/resources/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/resources/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/resources/spring-mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/account.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/checkout.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/contact.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/products.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/register.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/single.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/typo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/css/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/css/memenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/css/popuo-box.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/js/imagezoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/js/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/js/jquery.magnific-popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/js/memenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/js/responsiveslides.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/front/src/main/webapp/static/js/simpleCart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/nemar.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../nemar/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../nemar/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../nemar/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../nemar/out/" />
     <ignored path="$PROJECT_DIR$/../nemar/target/" />
     <ignored path="$PROJECT_DIR$/../nemar/admin/target/" />
+    <ignored path="$PROJECT_DIR$/../nemar/common/target/" />
+    <ignored path="$PROJECT_DIR$/../nemar/front/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,17 +175,144 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/console.sql">
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+            <state relative-caret-position="300">
+              <caret line="22" column="47" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1516170113238" expanded="false" signature="1176:1192" ph="&lt;~&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-mvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/spring-mvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nemar/common/src/main/resources/mapper/userMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <marker date="1516170428400" expanded="true" signature="359:429" ph="SELECT * FRO... user" />
+                <marker date="1516170428400" expanded="true" signature="507:586" ph="INSERT INTO user... " />
+                <marker date="1516170428400" expanded="true" signature="679:749" ph="UPDATE user " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PagingServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/impl/PagingServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1185">
+              <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1230">
+              <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>css</find>
+      <find>single.html</find>
+      <find>product.html</find>
+      <find>products.html</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>static/css</replace>
+      <replace>account.jsp</replace>
+      <replace>index.jsp</replace>
+      <replace>typo.jsp</replace>
+      <replace>contact.jsp</replace>
+      <replace>static/images</replace>
+      <replace>single.jsp</replace>
+      <replace>products.jsp</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -66,14 +326,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../nemar/pom.xml" />
-        <option value="$PROJECT_DIR$/../nemar/nemar.iml" />
-        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/service/UserService.java" />
         <option value="$PROJECT_DIR$/../nemar/admin/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/../nemar/admin/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/../nemar/admin/pom.xml" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/console.sql" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/typo.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/pom.xml" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/po/User.java" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/products.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/single.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/typo.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/interceptors/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/register.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/account.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/contact.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/service/UserService.java" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/checkout.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/views/typo.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/views/register.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/common/src/main/java/com/oaec/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/../nemar/admin/pom.xml" />
+        <option value="$PROJECT_DIR$/../nemar/common/pom.xml" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/resources/mapper/pagingMapper.xml" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/service/PagingService.java" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/dao/PagingMapper.java" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/service/impl/PagingServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/controller/PagingController.java" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/views/account.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/resources/mapper/userMapper.xml" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/../nemar/src/main/java/com/oaec/controller/UserController.java" />
+        <option value="C:/devlnstall/maven/apache-maven-3.5.0/repository/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class" />
+        <option value="$PROJECT_DIR$/../nemar/common/src/main/java/com/hwua/po/User.java" />
+        <option value="$PROJECT_DIR$/../nemar/common/src/main/java/com/hwua/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../nemar/front/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/../nemar/front/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/../nemar/front/pom.xml" />
+        <option value="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/impl/PagingServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/controller/PagingController.java" />
+        <option value="$PROJECT_DIR$/../nemar/front/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/UserService.java" />
+        <option value="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../nemar/common/src/main/resources/mapper/userMapper.xml" />
       </list>
     </option>
   </component>
@@ -101,7 +404,26 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="nemar Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="nemar Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -126,9 +448,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,37 +460,20 @@
             <path>
               <item name="nemar" type="b2602c69:ProjectViewProjectNode" />
               <item name="nemar" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nemar" type="b2602c69:ProjectViewProjectNode" />
               <item name="nemar" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nemar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nemar" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nemar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nemar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nemar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nemar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,17 +481,32 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.20496324" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Git/bin/git.exe" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\nemar\admin\src\main\webapp\WEB-INF" />
-      <recent name="D:\nemar\admin\src\main\webapp" />
-      <recent name="D:\nemar\admin\src\main\resources" />
-      <recent name="D:\nemar\admin\src\main\java" />
+      <recent name="D:\nemar\front\src\main\webapp\WEB-INF" />
+      <recent name="D:\nemar\front\src\main\webapp" />
+      <recent name="D:\nemar\common\src\main\resources" />
+      <recent name="D:\nemar\common\src\main\java\com\hwua\dao" />
+      <recent name="D:\nemar\front\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hwua.po" />
+      <recent name="com.oaec.po" />
+      <recent name="com.oaec.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\nemar\front\src" />
+      <recent name="D:\nemar\front\src\main\webapp" />
+      <recent name="D:\nemar\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\nemar\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -202,8 +521,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Unnamed">
-    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.23" ALTERNATIVE_JRE_ENABLED="false">
+  <component name="RunManager" selected="Tomcat Server.Tomcat">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.23" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:6666/nemar/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="admin:war exploded">
@@ -211,14 +531,9 @@
             <option name="CONTEXT_PATH" value="/admin" />
           </settings>
         </artifact>
-        <artifact name="nemar:Web exploded">
+        <artifact name="front:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/nemar" />
-          </settings>
-        </artifact>
-        <artifact name="admin:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="" />
+            <option name="CONTEXT_PATH" value="/front" />
           </settings>
         </artifact>
       </deployment>
@@ -282,8 +597,7 @@
       <method>
         <option name="BuildArtifacts" enabled="true">
           <artifact name="admin:war exploded" />
-          <artifact name="nemar:Web exploded" />
-          <artifact name="admin:war" />
+          <artifact name="front:war exploded" />
         </option>
       </method>
     </configuration>
@@ -383,6 +697,16 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="index.jsp" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:6666/nemar/WEB-INF/views/index.jsp" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.jsp" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.jsp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -398,48 +722,61 @@
       <option name="presentableId" value="Default" />
       <updated>1515636375996</updated>
       <workItem from="1515636379195" duration="4959000" />
-      <workItem from="1515641529443" duration="5619000" />
+      <workItem from="1515641529443" duration="6484000" />
+      <workItem from="1515719412982" duration="17931000" />
+      <workItem from="1515978417363" duration="19959000" />
+      <workItem from="1516064894913" duration="22350000" />
+      <workItem from="1516151187764" duration="13589000" />
     </task>
+    <task id="LOCAL-00001" summary="fff">
+      <created>1515660118595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515660118595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10578000" />
+    <option name="totallyTimeSpent" value="85272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1668455" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29399142" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10675966" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.222103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19909503" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5803167" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,19 +785,60 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fff" />
+    <option name="LAST_COMMIT_MESSAGE" value="fff" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/service/impl/RoleServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/java/com/oaec/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-69">
+          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/webapp/static/js/auth.js">
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/views/checkout.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="88" column="48" lean-forward="false" selection-start-line="88" selection-start-column="48" selection-end-line="88" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/resources/mapper/userMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/resources/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -468,370 +846,382 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="210">
+          <caret line="7" column="62" lean-forward="true" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/resources/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="66" column="5" lean-forward="false" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        <state relative-caret-position="385">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/views/account.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1590">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2400">
+          <caret line="101" column="36" lean-forward="false" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/java/com/oaec/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/devlnstall/maven/apache-maven-3.5.0/repository/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/po/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/dao/PagingMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/interceptors/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/common/src/main/java/com/hwua/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/common/src/main/java/com/hwua/po/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/common/src/main/java/com/hwua/dao/PagingMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/js/responsiveslides.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/css/memenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/js/jquery.magnific-popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/js/jquery.flexslider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/js/simpleCart.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/js/imagezoom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/static/js/memenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../nemar/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="499">
+          <caret line="100" column="32" lean-forward="true" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/register.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-303">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="300">
+          <caret line="133" column="27" lean-forward="true" selection-start-line="133" selection-start-column="27" selection-end-line="133" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/webapp/WEB-INF/views/auth.jsp">
+    <entry file="file://$PROJECT_DIR$/../nemar/common/src/main/resources/mapper/pagingMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/resources/mapper/authMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
-            <marker date="1514277176316" expanded="true" signature="549:592" ph="SELECT * FRO... auth" />
-            <marker date="1514277176316" expanded="true" signature="666:852" ph="UPDATE auth " />
-            <marker date="1514277176316" expanded="true" signature="924:1115" ph="INSERT INTO auth... " />
-            <marker date="1514277176316" expanded="true" signature="1448:1493" ph="SELECT * FRO... auth" />
-            <marker date="1514277176316" expanded="true" signature="1861:1938" ph="SELECT dbid auth" />
-            <marker date="1514277176316" expanded="true" signature="2055:2104" ph="SELECT authI... role_auth" />
-            <marker date="1514277176316" expanded="true" signature="2176:2221" ph="DELETE FROM " />
+            <marker date="1516092104368" expanded="true" signature="220:246" ph="SELECT tid,t... type" />
+            <marker date="1516092104368" expanded="true" signature="307:390" ph="SELECT bname... brand" />
+            <marker date="1516092104368" expanded="true" signature="349:389" ph="SELECT bid F... contact" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/service/UserService.java">
+    <entry file="file://$PROJECT_DIR$/../nemar/common/src/main/java/com/hwua/dao/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="313">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/service/AuthService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/po/Auth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.type">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.cart">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.cart">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.cart">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.cart">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.brand">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.cart">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.cart">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.have">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.cart">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.cart">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.cart">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.member">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.products">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.member">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.member">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.member">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.member">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.contact">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.address">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.products">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.products">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.products">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.type">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.type">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.type">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.type">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.products">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.products">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.products">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/912a7391/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/rbac.orders">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/controller/RoleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/interceptors/LoginInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-303">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/controller/AuthController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="35" column="29" lean-forward="false" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/dao/AuthMapper.java">
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/PagingService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/webapp/static/js/memenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/dao/RoleMapper.java">
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/views/typo.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../nemar/admin/src/main/java/com/hwua/ssm/dao/UserMapper.java">
+    <entry file="file://$PROJECT_DIR$/../nemar/front/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="300">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4c3c4e5d-729e-40b7-9644-2e2d75f3b6a3/console.sql">
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/controller/PagingController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        <state relative-caret-position="405">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="e#1034#1035#0" expanded="false" />
+            <element signature="e#1061#1062#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/impl/PagingServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/common/src/main/resources/mapper/userMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <marker date="1516170428400" expanded="true" signature="359:429" ph="SELECT * FRO... user" />
+            <marker date="1516170428400" expanded="true" signature="507:586" ph="INSERT INTO user... " />
+            <marker date="1516170428400" expanded="true" signature="679:749" ph="UPDATE user " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="47" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1516170113238" expanded="false" signature="1176:1192" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/java/com/oaec/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nemar/front/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -842,11 +1232,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>admin:war</last-edited>
+          <last-edited>front:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20496324" />
                 <option value="0.5" />
               </list>
             </option>
@@ -855,11 +1245,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (nemar)|Web</last-edited>
+          <last-edited>Spring (front)|Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20496324" />
               </list>
             </option>
           </splitter-proportions>
@@ -870,7 +1260,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20496324" />
               </list>
             </option>
           </splitter-proportions>
@@ -882,7 +1272,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20496324" />
               </list>
             </option>
           </splitter-proportions>
@@ -890,11 +1280,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>admin</last-edited>
+          <last-edited>front</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20496324" />
                 <option value="0.6" />
               </list>
             </option>
@@ -903,11 +1293,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:3.8.1</last-edited>
+          <last-edited>Maven: org.springframework:spring-expression:4.3.13.RELEASE</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20496324" />
               </list>
             </option>
           </splitter-proportions>
